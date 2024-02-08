@@ -2,6 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h4lfw1t&label=Profile%20views&color=0e75b6&style=flat" alt="h4lfw1t" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h4lfw1t&theme=monokai" alt="h4lfw1t" /></a> </p>
+![h4lfw1t github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=h4lfw1t)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
